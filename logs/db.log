@@ -1,0 +1,218 @@
+[2022-08-22T14:47:37.423] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T14:48:01.171] [INFO] db - Executing (default): SELECT `id`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T14:49:52.884] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T14:50:08.312] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T14:50:08.452] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T14:53:47.434] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T14:55:39.031] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T14:55:52.652] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T14:57:52.358] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T14:58:43.186] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T14:59:09.363] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:14:48.022] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:15:36.886] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:16:17.913] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:16:28.817] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:16:52.021] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:17:17.976] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:17:30.161] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:17:57.572] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:18:27.610] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:19:32.948] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:19:37.527] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:19:52.910] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:20:14.518] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:20:59.919] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:21:03.115] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:22:11.119] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:22:11.915] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:22:12.745] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:22:56.522] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:23:28.250] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:23:52.436] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:24:31.787] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:25:40.695] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:26:19.795] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:26:28.300] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:26:37.823] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:26:38.336] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:26:38.721] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:26:38.887] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:26:39.065] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:31:15.948] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:31:18.138] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:32:23.473] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:33:02.567] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:35:04.565] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:35:53.420] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:35:53.786] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:37.388] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:39.726] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:42.407] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:43.730] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:45.796] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:51.145] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:51.563] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:51.910] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:52.256] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:37:52.569] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:25.547] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:26.498] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:28.111] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:29.930] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:30.705] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:31.055] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:31.474] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:32.474] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:33.274] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:34.195] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:38:34.618] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:39:08.159] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:39:08.449] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:39:09.465] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:39:09.971] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:39:23.759] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:39:24.097] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:39:33.179] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2022-08-22T15:40:11.789] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:45:40.037] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:46:04.435] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:50:57.833] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:51:23.741] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:52:02.561] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:52:17.517] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:53:23.649] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:54:09.578] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:58:32.302] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T15:59:29.920] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:01:32.624] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:01:43.068] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 1;
+[2022-08-22T16:02:29.732] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 1;
+[2022-08-22T16:03:25.565] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:04:13.858] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 1;
+[2022-08-22T16:04:20.292] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:04:21.136] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 2;
+[2022-08-22T16:07:34.847] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:08:41.298] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:09:07.585] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:09:42.715] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:11:32.245] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:12:00.366] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:12:16.204] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:12:39.126] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:13:30.698] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:14:00.861] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:15:49.237] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:18:45.386] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:20:24.076] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:20:48.239] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:21:31.496] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:22:25.753] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:22:32.458] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:22:59.537] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:26:25.665] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:26:51.085] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:27:08.403] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:27:08.602] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2022-08-22T16:27:08.606] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 10;
+[2022-08-22T16:28:40.019] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:30:29.682] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:30:35.781] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:30:35.783] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2022-08-22T16:30:35.784] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 10;
+[2022-08-22T16:30:38.819] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2022-08-22T16:30:38.820] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 10;
+[2022-08-22T16:38:41.145] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:39:00.463] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:39:25.010] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:40:40.468] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:41:08.814] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:43:50.450] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:45:04.675] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:45:36.707] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:45:42.985] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:45:53.394] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:46:20.998] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:46:29.439] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:46:45.429] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:47:10.353] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:48:03.107] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:48:45.664] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:50:21.259] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:51:08.175] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:51:55.150] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:52:18.271] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:53:38.089] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:53:58.997] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:54:13.123] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:54:36.155] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:55:39.768] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:56:11.248] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:57:05.188] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:58:26.243] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T16:58:48.593] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:00:14.276] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:04:47.148] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:07:58.985] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:08:39.317] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:10:13.593] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = 'admin1' LIMIT 1;
+[2022-08-22T17:13:46.930] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:14:26.866] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:14:43.016] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:15:25.427] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:15:32.610] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:15:45.823] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:16:06.830] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:16:34.498] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:41:27.486] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:41:41.707] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:42:36.936] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:42:46.927] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:43:37.789] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:44:32.463] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:44:43.782] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:46:19.975] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:47:42.156] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:48:58.506] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:51:07.885] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:52:36.773] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:53:39.154] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:54:28.324] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:55:08.801] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T17:58:17.590] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:00:07.082] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:00:58.931] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:04:31.339] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:06:30.759] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:06:56.020] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:10:14.034] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:11:49.151] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:12:11.223] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:13:51.740] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:14:07.966] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:15:50.607] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:16:38.296] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:17:10.883] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:17:35.698] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:18:33.924] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:19:07.184] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:19:39.596] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:20:56.040] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:21:00.860] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:21:01.910] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:21:02.570] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:22:07.894] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:22:35.557] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:22:35.873] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:22:51.590] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:25:10.527] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:25:10.867] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:26:33.937] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:27:59.295] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:27:59.511] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:29:10.035] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:29:10.056] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?);
+[2022-08-22T18:31:26.912] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:31:28.699] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`password`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2022-08-22T18:33:05.047] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2022-08-22T18:33:05.524] [INFO] db - Executing (default): SELECT `id`, `name`, `mobile`, `email`, `password`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = 'aaa' LIMIT 1;
